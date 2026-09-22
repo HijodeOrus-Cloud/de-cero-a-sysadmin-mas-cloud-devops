@@ -8,12 +8,24 @@ Soy Adolfo, de Santiago. Partiendo desde 0 en el mundo de la infraestructura y c
 Conseguir mi primera pega como SysAdmin / Cloud Support / DevOps Jr sobre $1.2M.
 
 ### 🗺️ Mi Ruta de Aprendizaje
-- [x] Día 0: Crear este repo público
-- [ ] Mes 1: Fundamentos Linux y Redes
-- [ ] Mes 2: Scripting con Bash & Python
-- [ ] Mes 3: AWS Cloud Practitioner (Mi primera certificación)
-- [ ] Mes 4: Docker y Kubernetes
-- [ ] Mes 5: CI/CD con GitHub Actions
+
+**✅ Día 0: El Inicio**
+Crear este repo público y empezar a documentar. ¡Hecho!
+
+**👉 Mes 1: Fundamentos de Redes [EN CURSO 🚧]**
+> Mi foco 100% ahora mismo
+- Curso: Cisco Networking Basics (Módulo 1 al 17)
+- Donde voy: Módulo 3.3 - Redes Inalámbricas
+- Práctica real: Mi IP 192.168.1.6/24, Gateway, SSID, WPA2, VPN de Entel
+- Meta: Pasar el Examen Final de Conceptos Básicos de Redes
+
+**🎯 Mes 2: Fundamentos de Linux [PRÓXIMO]**
+- NDG Linux Unhatched (8 hrs)
+- NDG Linux Essentials (70 hrs con certificado Cisco)
+- Para qué: Aprender terminal para Cloud.
+
+**☁️ Mes 3: Cloud**
+- Con Redes + Linux listos, entro a Azure / AWS
 
 ### 🛠️ Stack que estoy aprendiendo
 `Linux` `Bash` `AWS` `Docker` `Git` `Networking`
