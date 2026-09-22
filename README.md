@@ -49,6 +49,15 @@ Crear este repo público y empezar a documentar. ¡Hecho!
 - **VPN:** Túnel privado - lo usé en Entel para atender llamadas desde casa
 
 Próximo paso: Cuestionario del Módulo 3 y Módulo 4 con Packet Tracer.
+#### ✅ 22/09/2026 (Noche) - Módulo 3 COMPLETADO - 96%
+- **Módulo:** 3.3 Comunicaciones Inalámbricas y Móviles
+- **Secciones completadas:** 3.3.1 / 3.3.2 / 3.3.3
+- **Quiz:** Redes Inalámbricas y Móviles - **96%**
+- **Qué aprendí:**
+    - Tipos de redes inalámbricas, SSID, estándares 802.11
+    - Seguridad WPA2/WPA3 y riesgos de redes abiertas
+    - Diferencia entre celular, WiFi y conexión por datos móviles
+- **Estado:** Módulo 3 cerrado al 100%. Listo para Módulo 4 Packet Tracer.
 
 
 
